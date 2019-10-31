@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/kobbymac/background-generator#readme",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.13"
   }
 }
